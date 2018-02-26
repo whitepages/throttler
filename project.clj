@@ -1,4 +1,4 @@
-(defproject whitepages/throttler "1.0.0-SNAPSHOT"
+(defproject whitepages/throttler "1.1.0-SNAPSHOT"
   :description "Control the throughput of function calls and core.async channels using the token bucket algorithm"
   :url "https://github.com/whitepages/throttler"
   :license {:name "Eclipse Public License"
